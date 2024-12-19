@@ -1,1 +1,1 @@
-# Webpack Template
+# Webpack + ESLint + Prettier + Babel Template
